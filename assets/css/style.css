@@ -24,6 +24,9 @@ body {
   background-color: #002b49;
 }
 
+.carousel-indicators {
+  z-index: 9999;
+}
 
 .btm-footer {
   background-color: #002b49;
