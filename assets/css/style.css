@@ -1,0 +1,31 @@
+body {
+  background-color: #002b49;
+}
+
+.header {
+  background-color: #002b49;
+  color: whitesmoke;
+}
+
+.subtitle-text {
+  color: rgba(245, 245, 245, 0.8)
+}
+
+.slide-location {
+  background-color: #002b49;
+}
+
+.carousel-control-next {
+  filter: invert(100%);
+}
+
+
+.joinUs-row {
+  background-color: #002b49;
+}
+
+
+.btm-footer {
+  background-color: #002b49;
+  color:whitesmoke;
+}
