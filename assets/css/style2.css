@@ -1,0 +1,20 @@
+.subtitle-text {
+  color: rgba(245, 245, 245, 0.8)
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+.header {
+  background-color: #002b49;
+  color: whitesmoke;
+}
+
+.title {
+  color: #002b49;
+}
+
+.btm-footer {
+  color: #002b49;
+}
