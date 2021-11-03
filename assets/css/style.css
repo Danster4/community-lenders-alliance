@@ -49,19 +49,57 @@
   color:whitesmoke;
 }
 
+/* .advantages-title {
+  border-bottom: 3px whitesmoke solid;
+} */
+
 #keep-your-customers {
-  background-image: url(../images/Image-Keep-Your-Customers.jpg);
+  background-image: url(../images/Image-Keep-Your-Customers-400-kb.jpg);
   background-size: 350px;
   width: 350px;
   height: 200px;
 }
 
 #keep-your-customers:hover {
-  background-image: url(../images/keep-your-customers-description.jpg);
+  background-image: url(../images/keep-your-customers-description-med-qual.jpg);
+  width: 350px;
+  height: 200px;
+  transition: .5s ease;
+}
+
+#increase-revenue {
+  background-image: url(../images/Image-Increase-Revenue-400-kb.jpg);
+  background-size: 350px;
   width: 350px;
   height: 200px;
 }
 
+#increase-revenue:hover {
+  background-image: url(../images/increase-revenue-description-med-qual.jpg);
+  width: 350px;
+  height: 200px;
+}
+
+.svg {
+  -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
+  filter: invert(100%);
+  margin: 5px;
+  /* border-radius: 15px;
+  border: white 1px solid;
+  padding: 8px; */
+}
+
+/* #mail-svg {
+  margin: 5px;
+}
+
+#phone-svg {
+  margin: 5px;
+}
+
+#geo-svg {
+  margin: 5px;
+} */
 
 /* @media only screen and (max-width: 768px) {
 
