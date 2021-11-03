@@ -26,6 +26,8 @@
 
 .image-blocks {
   border-radius: 25px;
+  width: 350px;
+  background-size: 350px;
 }
 
 .joinUs-row {
@@ -41,10 +43,37 @@
   color:whitesmoke;
 }
 
-
-@media only screen and (max-width: 768px) {
-  /* For mobile phones: */
-  .slide-location {
-    padding: 0;
-  }
+#keep-your-customers {
+  background-image: url(../images/Image-Keep-Your-Customers.jpg);
+  background-size: 350px;
+  width: 350px;
+  height: 200px;
 }
+
+#keep-your-customers:hover {
+  background-image: url(../images/keep-your-customers-description.jpg);
+  width: 350px;
+  height: 200px;
+}
+
+
+/* @media only screen and (max-width: 768px) {
+
+
+  
+
+} */
+
+
+
+/* For mobile phones: */
+/* .slide-location {
+  padding: 0;
+} */
+
+
+/* #keep-your-customers,
+  #keep-your-customers:hover {
+    width: 350px;
+    background-size: 350px;
+  }
