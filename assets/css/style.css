@@ -1,24 +1,28 @@
-body {
-  background-color: #002b49;
-}
+/* body {
+  background-color: rgba(230,235,236,255);
+} */
 
 .header {
-  background-color: #002b49;
-  color: whitesmoke;
+  background-color: rgba(230,235,236,255);
+  color: rgba(84,165,218,255)
 }
 
 .subtitle-text {
-  color: rgba(245, 245, 245, 0.8)
+  color: rgba(84,165,218,255);
 }
 
-.slide-location {
-  background-color: #002b49;
+.slide-location,
+.square-location {
+  background-color: rgba(230,235,236,255);
 }
 
 .carousel-control-next {
   filter: invert(100%);
 }
 
+.image-blocks {
+  border-radius: 25px;
+}
 
 .joinUs-row {
   background-color: #002b49;
