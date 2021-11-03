@@ -7,6 +7,11 @@
   color: rgba(84,165,218,255)
 }
 
+#subtitle-header {
+  border-color: #002b49;
+  border-bottom: #002b49, 3px;
+}
+
 .subtitle-text {
   color: rgba(84,165,218,255);
 }
@@ -18,6 +23,7 @@
 .square-location {
   background-color: #002b49;
   color: whitesmoke;
+  padding-bottom: 25px;
 }
 
 .carousel-control-next {
@@ -31,7 +37,7 @@
 }
 
 .joinUs-row {
-  background-color: #002b49;
+  background-color: rgba(230,235,236,255);
 }
 
 .carousel-indicators {
