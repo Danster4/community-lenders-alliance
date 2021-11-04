@@ -60,7 +60,7 @@
 }
 
 #keep-your-customers:hover {
-  background-image: url(../images/keep-your-customers-description-med-qual.jpg);
+  background-image: url(../images/keep-your-customers-description-med-qual-georgia.jpg);
   width: 350px;
   height: 200px;
   transition: .5s ease;
@@ -77,6 +77,63 @@
   background-image: url(../images/increase-revenue-description-300-georgia.jpg);
   width: 350px;
   height: 200px;
+  transition: .5s ease;
+}
+
+#minimal-compliance {
+  background-image: url(../images/Image-Minimal-Compliance-400-kb.jpg);
+  background-size: 350px;
+  width: 350px;
+  height: 200px;
+}
+
+#minimal-compliance:hover {
+  background-image: url(../images/minimal-compliance-description-med-qual.jpg);
+  width: 350px;
+  height: 200px;
+  transition: .5s ease;
+}
+
+#you-ll-only-need-one {
+  background-image: url(../images/Image-You-Only-Need-One-400-kb.jpg);
+  background-size: 350px;
+  width: 350px;
+  height: 200px;
+}
+
+#you-ll-only-need-one:hover {
+  background-image: url(../images/you-only-need-one-description-med-qual-georgia.jpg);
+  width: 350px;
+  height: 200px;
+  transition: .5s ease;
+}
+
+#go-digital {
+  background-image: url(../images/Image-Go-Digital-400-kb.jpg);
+  background-size: 350px;
+  width: 350px;
+  height: 200px;
+}
+
+#go-digital:hover {
+  background-image: url(../images/go-digital-description-med-qual-georgia.jpg);
+  width: 350px;
+  height: 200px;
+  transition: .5s ease;
+}
+
+#how-it-works {
+  background-image: url(../images/Image-How-It-Works-400-kb.jpg);
+  background-size: 350px;
+  width: 350px;
+  height: 200px;
+}
+
+#how-it-works:hover {
+  background-image: url(../images/go-digital-description-med-qual-georgia.jpg);
+  width: 350px;
+  height: 200px;
+  transition: .5s ease;
 }
 
 .svg {
