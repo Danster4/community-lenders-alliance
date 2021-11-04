@@ -8,8 +8,7 @@
 }
 
 #subtitle-header {
-  border-color: #002b49;
-  border-bottom: #002b49, 3px;
+  border-bottom: #002b49 3px solid;
 }
 
 .subtitle-text {
@@ -75,7 +74,7 @@
 }
 
 #increase-revenue:hover {
-  background-image: url(../images/increase-revenue-description-med-qual.jpg);
+  background-image: url(../images/increase-revenue-description-300-georgia.jpg);
   width: 350px;
   height: 200px;
 }
