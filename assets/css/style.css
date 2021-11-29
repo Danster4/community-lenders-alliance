@@ -122,15 +122,15 @@
   transition: .5s ease;
 }
 
-#how-it-works {
-  background-image: url(../images/Image-How-It-Works-400-kb.jpg);
+#products {
+  background-image: url(../images/products-300-kb.jpg);
   background-size: 350px;
   width: 350px;
   height: 200px;
 }
 
-#how-it-works:hover {
-  background-image: url(../images/go-digital-description-med-qual-georgia.jpg);
+#products:hover {
+  background-image: url(../images/products-description.jpg);
   width: 350px;
   height: 200px;
   transition: .5s ease;
