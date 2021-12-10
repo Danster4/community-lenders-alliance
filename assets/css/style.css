@@ -25,10 +25,6 @@
   padding-bottom: 25px;
 }
 
-.carousel-control-next {
-  filter: invert(100%);
-}
-
 .image-blocks {
   border-radius: 25px;
   width: 350px;
@@ -39,18 +35,12 @@
   background-color: rgba(230,235,236,255);
 }
 
-.carousel-indicators {
-  z-index: 9999;
-}
 
 .btm-footer {
   background-color: #002b49;
   color:whitesmoke;
 }
 
-/* .advantages-title {
-  border-bottom: 3px whitesmoke solid;
-} */
 
 #keep-your-customers {
   background-image: url(../images/Image-Keep-Your-Customers-400-kb.jpg);
@@ -140,40 +130,8 @@
   -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
   filter: invert(100%);
   margin: 5px;
-  /* border-radius: 15px;
-  border: white 1px solid;
-  padding: 8px; */
 }
 
-/* #mail-svg {
-  margin: 5px;
-}
-
-#phone-svg {
-  margin: 5px;
-}
-
-#geo-svg {
-  margin: 5px;
-} */
-
-/* @media only screen and (max-width: 768px) {
-
-
-  
-
-} */
 
 
 
-/* For mobile phones: */
-/* .slide-location {
-  padding: 0;
-} */
-
-
-/* #keep-your-customers,
-  #keep-your-customers:hover {
-    width: 350px;
-    background-size: 350px;
-  }
