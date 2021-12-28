@@ -1,14 +1,12 @@
-.subtitle-text {
-  color: rgba(245, 245, 245, 0.8)
-}
 
+
+.header,
 body {
   background-color: whitesmoke;
 }
 
-.header {
-  background-color: #002b49;
-  color: whitesmoke;
+.dropbtn {
+  background-color: whitesmoke;
 }
 
 .title {
@@ -16,5 +14,6 @@ body {
 }
 
 .btm-footer {
-  color: #002b49;
+  background-color: #002b49;
+  color: whitesmoke;
 }
